@@ -56,4 +56,4 @@ Teoria dei sistemi · Controllo automatico · PLC · Simulink
 
 ### 📫 Contatti
 
-<!-- [LinkedIn](https://linkedin.com/in/...) · --> mailto:maryincarnato18@gmail.com <!-- ·  [CV (PDF)](link) -->
+<!-- [LinkedIn](https://linkedin.com/in/...) · --> [Email](mailto:maryincarnato18@gmail.com) <!-- ·  [CV (PDF)](link) -->
