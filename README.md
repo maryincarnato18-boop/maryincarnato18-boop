@@ -16,7 +16,7 @@ ISTRUZIONI (questo blocco è un commento HTML: non verrà mostrato su GitHub)
 
 ### 🧠 Chi sono
 
-Mi occupo di visione artificiale applicata alla robotica: nella mia tesi triennale, sviluppata presso il PRISMA Lab, ho progettato un sistema di percezione basato su YOLOv8 per un robot umanoide. Sto per iniziare la magistrale in Robotica e cerco di approfondire ulteriormente il campo della percezione robotica, in vista di tesi magistrale, tirocinio o prime esperienze in R&D. [Personalizza con eventuali dettagli in più su di te.]
+Mi occupo di visione artificiale applicata alla robotica: nella mia tesi triennale, sviluppata presso il PRISMA Lab, ho progettato un sistema di percezione basato su YOLOv8 per un robot umanoide. Sto per iniziare la magistrale in Robotica e cerco di approfondire ulteriormente il campo della percezione robotica, in vista di tesi magistrale, tirocinio o prime esperienze in R&D. <!--[Personalizza con eventuali dettagli in più su di te.]-->
 
 ---
 
@@ -50,10 +50,10 @@ Teoria dei sistemi · Controllo automatico · PLC · Simulink
 | Progetto | Descrizione | Tecnologie | Repository |
 |---|---|---|---|
 | **Tesi triennale — Riconoscimento visivo per un robot umanoide nei giochi da tavolo** | Sistema di object detection (YOLOv8) + stima di distanza (RealSense) per un Unitree H1-2, testato su un vero gioco da tavolo presso il PRISMA Lab | Python · YOLOv8 · OpenCV · RealSense | [tesi-riconoscimento-visivo-robot-umanoide](#) |
-| 🔜 [Prossimo progetto di visione artificiale] | In lavorazione durante la magistrale | — | — |
+<!-- | 🔜 [Prossimo progetto di visione artificiale] | In lavorazione durante la magistrale | — | — |  -->
 
 ---
 
 ### 📫 Contatti
 
-[LinkedIn](https://linkedin.com/in/...) · [Email](mailto:...) · [CV (PDF)](link)
+<!-- [LinkedIn](https://linkedin.com/in/...) -->· [Email](mailto:...) · <!-- [CV (PDF)](link) -->
