@@ -49,7 +49,7 @@ Teoria dei sistemi · Controllo automatico · PLC · Simulink
 
 | Progetto | Descrizione | Tecnologie | Repository |
 |---|---|---|---|
-| **Tesi triennale — Riconoscimento visivo per un robot umanoide nei giochi da tavolo** | Sistema di object detection (YOLOv8) + stima di distanza (RealSense) per un Unitree H1-2, testato su un vero gioco da tavolo presso il PRISMA Lab | Python · YOLOv8 · OpenCV · RealSense | [tesi-riconoscimento-visivo-robot-umanoide](#) |
+| **Tesi triennale — Riconoscimento visivo per un robot umanoide nei giochi da tavolo** | Sistema di object detection (YOLOv8) + stima di distanza (RealSense) per un Unitree H1-2, testato su un vero gioco da tavolo presso il PRISMA Lab | Python · YOLOv8 · OpenCV · RealSense | [tesi-riconoscimento-visivo-robot-umanoide](https://github.com/maryincarnato18-boop/tesi-riconoscimento-visivo-robot-umanoide) |
 <!-- | 🔜 [Prossimo progetto di visione artificiale] | In lavorazione durante la magistrale | — | — |  -->
 
 ---
