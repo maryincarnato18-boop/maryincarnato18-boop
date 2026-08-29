@@ -26,7 +26,7 @@ di commento e carica l'immagine nel repository (es. assets/foto.jpg):
 <img src="assets/foto.jpg" alt="Maria Incarnato" width="160" style="border-radius: 50%;">
 -->
 
-![Skills](https://skillicons.dev/icons?i=python,cpp,matlab,opencv,git,linux)
+![Skills](https://skillicons.dev/icons?i=python,cpp,matlab,opencv)
 
 </div>
 
@@ -61,10 +61,11 @@ Mi occupo di visione artificiale applicata alla robotica: nella mia tesi trienna
 ![PLC](https://img.shields.io/badge/PLC-1e293b?style=for-the-badge)
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
+<!--
 **Strumenti**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
 
 </div>
 
