@@ -2,16 +2,16 @@
 ISTRUZIONI (commento HTML invisibile su GitHub)
 1. Sostituisci i placeholder tra [parentesi quadre].
 2. Aggiorna la tabella "Progetti in evidenza" quando avrai nuovi lavori.
-3. Il banner in alto (assets/banner.svg) è un file statico: va caricato una
-   volta nel repository e da lì non si romperà più. La scritta animata sotto
-   è invece generata da un servizio esterno (readme-typing-svg) e si
-   aggiorna da sola, non serve caricare nulla per quella.
+3. Il banner in alto (banner.svg, nella radice del repository) è un file
+   statico: va caricato una volta e da lì non si romperà più. La scritta
+   animata sotto è invece generata da un servizio esterno (readme-typing-svg)
+   e si aggiorna da sola, non serve caricare nulla per quella.
 4. Badge personalizzabili su https://shields.io — stile "for-the-badge" attivo.
 -->
 
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Header banner" />
+<img src="banner.svg" width="100%" alt="Header banner" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=Ingegneria+dell%27Automazione+%E2%86%92+Robotica;Percezione+robotica+%26+Computer+Vision;PRISMA+Lab+%E2%80%93+Universit%C3%A0+Federico+II" alt="Typing SVG" />
 
@@ -26,7 +26,7 @@ di commento e carica l'immagine nel repository (es. assets/foto.jpg):
 <img src="assets/foto.jpg" alt="Maria Incarnato" width="160" style="border-radius: 50%;">
 -->
 
-![Skills](https://skillicons.dev/icons?i=python,cpp,matlab,opencv)
+![Skills](https://skillicons.dev/icons?i=python,cpp,matlab,opencv,git,linux)
 
 </div>
 
