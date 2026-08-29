@@ -1,0 +1,13 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bannerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="180" fill="url(#bannerGradient)"/>
+  <path d="M0,142 C150,172 300,112 450,142 C600,172 750,112 900,142 C1050,172 1150,122 1200,142 L1200,180 L0,180 Z" fill="#ffffff" fill-opacity="0.08"/>
+  <path d="M0,158 C150,180 300,132 450,158 C600,180 750,132 900,158 C1050,180 1150,142 1200,158 L1200,180 L0,180 Z" fill="#ffffff" fill-opacity="0.12"/>
+  <text x="600" y="80" font-family="Verdana, 'Segoe UI', Arial, sans-serif" font-size="44" font-weight="700" fill="#ffffff" text-anchor="middle">Maria Incarnato</text>
+  <text x="600" y="115" font-family="Verdana, 'Segoe UI', Arial, sans-serif" font-size="19" font-weight="400" fill="#E9E4FF" text-anchor="middle">Computer Vision &amp; Robotics</text>
+</svg>
