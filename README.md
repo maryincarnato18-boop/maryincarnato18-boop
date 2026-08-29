@@ -2,15 +2,16 @@
 ISTRUZIONI (commento HTML invisibile su GitHub)
 1. Sostituisci i placeholder tra [parentesi quadre].
 2. Aggiorna la tabella "Progetti in evidenza" quando avrai nuovi lavori.
-3. Il banner in alto e la scritta animata sono generati da servizi esterni
-   (capsule-render, readme-typing-svg): si aggiornano da soli, non serve
-   caricare nessuna immagine per loro.
+3. Il banner in alto (assets/banner.svg) è un file statico: va caricato una
+   volta nel repository e da lì non si romperà più. La scritta animata sotto
+   è invece generata da un servizio esterno (readme-typing-svg) e si
+   aggiorna da sola, non serve caricare nulla per quella.
 4. Badge personalizzabili su https://shields.io — stile "for-the-badge" attivo.
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=180&section=header&text=Maria%20Incarnato&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Vision%20%26%20Robotics&descAlignY=58&descSize=20" width="100%" alt="Header banner" />
+<img src="assets/banner.svg" width="100%" alt="Header banner" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=Ingegneria+dell%27Automazione+%E2%86%92+Robotica;Percezione+robotica+%26+Computer+Vision;PRISMA+Lab+%E2%80%93+Universit%C3%A0+Federico+II" alt="Typing SVG" />
 
@@ -25,7 +26,7 @@ di commento e carica l'immagine nel repository (es. assets/foto.jpg):
 <img src="assets/foto.jpg" alt="Maria Incarnato" width="160" style="border-radius: 50%;">
 -->
 
-![Skills](https://skillicons.dev/icons?i=python,cpp,matlab,opencv)
+![Skills](https://skillicons.dev/icons?i=python,cpp,matlab,opencv,git,linux)
 
 </div>
 
@@ -60,10 +61,10 @@ Mi occupo di visione artificiale applicata alla robotica: nella mia tesi trienna
 ![PLC](https://img.shields.io/badge/PLC-1e293b?style=for-the-badge)
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-<!--**Strumenti**
+**Strumenti**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -83,5 +84,14 @@ Mi occupo di visione artificiale applicata alla robotica: nella mia tesi trienna
 
 [![Gmail](https://img.shields.io/badge/maryincarnato18%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maryincarnato18@gmail.com)
 [![GitHub](https://img.shields.io/badge/maryincarnato18--boop-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryincarnato18-boop)
+
+<!--
+LINKEDIN E CV (disattivati: il profilo LinkedIn e il CV non sono ancora
+aggiornati). Quando lo sono, sostituisci i link placeholder qui sotto con
+quelli reali e rimuovi i delimitatori di commento per farli comparire:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuo-profilo)
+[![CV](https://img.shields.io/badge/CV%20(PDF)-000000?style=for-the-badge)](link-al-tuo-cv.pdf)
+-->
 
 </div>
